@@ -1,8 +1,4 @@
 # MS_Teams_Captions_Snatcher
-Here is a technical GitHub README file for your Chrome Extension:
-
-**Captions Snatcher**
-=====================
 
 **Overview**
 -----------
