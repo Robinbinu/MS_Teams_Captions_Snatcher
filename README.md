@@ -56,4 +56,3 @@ Contributions are welcome! If you'd like to contribute to the extension, please 
 This extension is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-I hope this helps! Let me know if you have any questions or need further assistance.
